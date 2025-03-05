@@ -1,1 +1,17 @@
-Add pseudocode here
+Part 1: Vertical Output
+
+1. Have 2 numbers: 3.00 and 15.73 and add them
+2. Sum the hundreths place (0 and 3)
+3. Sum the tenths place (0 and 7)
+4. Sum the ones place (3 and 5)
+5. Bring down the tens place (1)
+6. Write down the added number (18.73)
+
+Part 2: Interactive Input
+
+1. Pick any two  2 numbers: (My picks are 25.51 and 75.00) and add them
+2. Sum the hundreths place (1 and 0)
+3. Sum the tenths place (5 and 0)
+4. Sum the ones place (5 and 5), then carry over the 1
+5. Sum the tens (2, 7, and 1)
+6. Write down the added number (100.51)
